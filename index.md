@@ -24,7 +24,7 @@ Worked on robotic strength amplification systems and magnetic gearbox integratio
 
 ---
 
-## 📄 [View My CV](assets/images/Resume_Cade_Gossett.pdf)
+## 📄 [View My Resume](assets/images/Resume_Cade_Gossett.pdf)
 
 ---
 
