@@ -7,4 +7,4 @@ tags:
   - standard
 ---
 
-Big thanks to my buddy Zachary Buckner
+Big thanks to my buddy **[Zachary Smartt](https://zacharybsmartt.github.io)** for convincing me to try this out and expand my software skills! It's not crazy hard after all, haha, and a good learning tool. Hope you enjoy my small corner of the internet, and if you're looking at my resume for a job please hire me :D
