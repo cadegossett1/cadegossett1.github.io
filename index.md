@@ -11,19 +11,6 @@ I love working at the intersection of **hardware**, **software**, and **systems 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔧 [6DOF Robotic Arm](#)
-An ongoing personal project to build a full 6DOF robotic arm using 3D-printed actuators, stepper motors, and ROS integration.
- - testing what this does. Is it a bullet or is it a "-"?
-### 🌕 [NASA Lunar Lander Capstone](#)
-Led a team in redesigning a reusable LOx/H2 lunar lander for Artemis-class missions. Drop-tested scaled models in regolith simulant.
-
-### 🤖 [RAD Lab Research](#)
-Worked on robotic strength amplification systems and magnetic gearbox integration using industrial robot arms and custom end effectors.
-
----
-
 ## 📄 [View My Resume](assets/images/Resume_Cade_Gossett.pdf)
 
 ---
