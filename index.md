@@ -4,7 +4,7 @@ title: "Cade Gossett"
 excerpt: "Mechanical Engineer | Robotics | Space Systems"
 author_profile: true
 ---
-
+<p style="font-size: 0.9rem;">
 Welcome! I'm **Cade Gossett**, a graduate student in Mechanical Engineering at Texas A&M University, where I focus on robotics, embedded systems, and human-spaceflight applications.
 
 I love working at the intersection of **hardware**, **software**, and **systems design**, especially when it means prototyping robots or designing for extreme environments like the lunar surface.
