@@ -5,3 +5,5 @@
 layout: home
 author_profile: true
 ---
+
+Hello this is Cade Gossett! I want to let you know that I am cool and trustworthy. Hire me.
