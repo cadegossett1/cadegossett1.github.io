@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Cade Gossett"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Cade_Gossett_Headshot_square.png"
+  bio    : "I am Cade!!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
