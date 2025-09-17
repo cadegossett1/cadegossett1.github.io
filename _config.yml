@@ -95,6 +95,12 @@ author:
 
 footer:
   links:
+   - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:cadegossett1@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/cadegossett"
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
