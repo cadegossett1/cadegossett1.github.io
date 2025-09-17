@@ -74,6 +74,12 @@ author:
   bio    : "Graduate Mechanical Engineering Student"
   location: "Texas A&M University"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:cadegossett1@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/cadegossett"
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
    #   url: "https://"
