@@ -30,6 +30,5 @@ Worked on robotic strength amplification systems and magnetic gearbox integratio
 
 ## 🔗 Connect
 
-- [GitHub](https://github.com/cadegossett1)
-- [LinkedIn](https://linkedin.com/in/cadegossett)
+- [LinkedIn](https://www.linkedin.com/in/cadegossett/)
 - [Email](mailto:cadegossett1@gmail.com)
