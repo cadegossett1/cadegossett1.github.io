@@ -72,6 +72,7 @@ author:
   name   : "Cade Gossett"
   avatar : "/assets/images/Cade_Gossett_Headshot_square.png"
   bio    : "Graduate Mechanical Engineering Student"
+  location: "Texas A&M University, College Station"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
