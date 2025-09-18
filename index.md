@@ -9,13 +9,3 @@ Welcome! I'm **Cade Gossett**, a graduate student in Mechanical Engineering at T
 
 I love working at the intersection of **hardware**, **software**, and **systems design**, especially when it means prototyping robots or designing for extreme environments like the lunar surface.
 
----
-
-## 📄 [View My Resume](assets/images/Resume_Cade_Gossett.pdf)
-
----
-
-## 🔗 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/cadegossett/)
-- [Email](mailto:cadegossett1@gmail.com)
