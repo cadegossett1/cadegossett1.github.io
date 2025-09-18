@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Cade Gossett"
+title: "About Me"
 excerpt: "Mechanical Engineer | Robotics | Space Systems"
 author_profile: true
 ---
