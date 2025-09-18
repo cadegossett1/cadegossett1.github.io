@@ -5,7 +5,9 @@ excerpt: "Mechanical Engineer | Robotics | Space Systems"
 author_profile: true
 ---
 
-Welcome! I'm **Cade Gossett**, a graduate student in Mechanical Engineering at Texas A&M University, where I focus on robotics, embedded systems, and human-spaceflight applications.
+Welcome! My name is **Cade Gossett**, I am a graduate student studying Mechanical Engineering at Texas A&M, where I recently recived my BS in Aerospace Engineering. I currently conduct research under **Dr. Gray Thoams** at the **Human Empower Robotics and Controls Lab**, where I am currently working on setting up a 7-DOF KUKA robotic manipulator to be used for a variety of projects around the lab; anywhere from strength amplification to testing space grade magnetic gear boxes. My passion mostly lies in hardware, mechanical and eletrical, and optimization within human-spaceflight. With growing skills in embedded systems and microcontrollers built on top of a solid foundation of Computer Aided Design skills, I hope to contribute to a team that is putting forward technology to make tomorrow's space missions possible.
 
-I love working at the intersection of **hardware**, **software**, and **systems design**, especially when it means prototyping robots or designing for extreme environments like the lunar surface.
+---
+
+
 
